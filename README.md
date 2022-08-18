@@ -1,2 +1,2 @@
 # Portfolio
-this contains my personal practice  on sql
+This contains my personal project  on sql
